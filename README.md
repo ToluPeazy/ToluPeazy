@@ -27,13 +27,12 @@ Cloud:          Google Cloud, Azure fundamentals
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**Smart-Lite Insight**](https://github.com/ToluPeazy/smart-lite-insight) | Edge-AI energy monitoring & anomaly detection on Raspberry Pi 5 | Python, RPi5, ML |
-| [**SCPR Solver Pipeline**](https://github.com/ToluPeazy/scpr-pipeline) | Production-ready solver for Set Covering Problems with Reasons | Python, PuLP, MILP |
-
-> ⚠️ *Some repositories are being migrated from private research repos — more coming soon.*
+| [**SCPR Supplementary Files**](https://doi.org/10.5281/zenodo.15326494) | Datasets, algorithms & solvers for the Set Covering Problem with Reasons | Python, LP, MILP |
+| [**SCPPack**](https://doi.org/10.5281/zenodo.6609202) | Maple package for studying SCP & SCPR — reduction, solver, demos | Maple |
 
 ### 📄 Publications
 
-- **A. Babatunde**, M. England, A. Sadeghimanesh. *"Optimising Cylindrical Algebraic Coverings for Use in SMT by Solving a Set Covering Problem with Reasons."* Submitted to Discrete Optimization (Elsevier), under review. [arXiv:2601.14424](https://arxiv.org/abs/2601.14424)
+- **A. Babatunde**, M. England, A. Sadeghimanesh. *"Optimising Cylindrical Algebraic Coverings for Use in SMT by Solving a Set Covering Problem with Reasons."* Submitted to Discrete Optimization (Elsevier), under review. [arXiv:2601.14424](https://arxiv.org/abs/2601.14424) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15326494.svg)](https://doi.org/10.5281/zenodo.15326494)
 
 ### 🏅 Credentials
 
