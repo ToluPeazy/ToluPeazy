@@ -35,8 +35,9 @@ Cloud:          Google Cloud, Azure fundamentals
 - **A. T. Babatunde**. *"Encoding the Set Covering Problem with Reasons as a QUBO: Equivalence, Beasley Pre-Reduction, and Post-Q Variable Fixing."* Technical report, 2025. [Source](https://github.com/ToluPeazy/scpr-qubo/tree/main/paper)
 ### 🏅 Credentials
 - 🎓 **PhD Computational Mathematics**: Coventry University (2026)
-- 🏛️ **STEM for Britain Finalist**: Poster presentation at the UK Parliament (2024) 
-- 🎤 **Speaker**: International Congress on Mathematical Software, Durham (2024) | International Congress on Mathematical Software, Durham (2024)
+- 🏛️ **STEM for Britain Finalist**: Poster presentation at the UK Parliament (2024)
+- 🏛️ **Delegate**: British Council Sponsored UK-Pakistan Mobility Program (2023) 
+- 🎤 **Speaker**: International Congress on Mathematical Software, Durham (2024) | OR68 Conference, Nottingham (2026)
 - 📜 **Microsoft Certified Professional**: Power BI (Active) | Product Management Certificate, ProductDive (2021)
 - ☁️ **Google Cloud Innovator** | Google ML Crash Course (14 badges)
 - 🤝 Member, **The OR Society** | **Chartered Management Institute** (MCMI)
