@@ -1,5 +1,5 @@
 # Hi, I'm Tolu Babatunde 👋
-**AI & Data Engineer | PhD Computational Mathematics | Optimisation Researcher**
+**Optimisation Researcher | PhD Computational Mathematics | Quantum and classical optimisation**
 
 I build data pipelines and optimisation solvers, including an exact MILP pipeline and a QUBO encoding for SCPR, and an edge-AI energy monitor on a Raspberry Pi 5.
 
@@ -41,9 +41,9 @@ Cloud:          Google Cloud, Azure fundamentals
 - ☁️ **Google Cloud Innovator** | Google ML Crash Course (14 badges)
 - 🤝 Member, **The OR Society** | **Chartered Management Institute** (MCMI)
 ### 🌍 Community
-**Head of AI Literacy** at the [African Institute for Artificial Intelligence](https://github.com/ToluPeazy): building AI education content for African learners, including curriculum design and offline deployment strategies.
+**Head of AI Literacy** at the African Institute for Artificial Intelligence: building AI education content for African learners, including curriculum design and offline deployment strategies.
 ### 📫 Let's connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tolu-babatunde-0ba377)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tolu-babatunde-0ba37739)
 [![Google Dev](https://img.shields.io/badge/Google%20Dev-4285F4?style=flat&logo=google&logoColor=white)](https://g.dev/tolupeazy)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/6604262)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:babatunde.tolulope@outlook.com)
