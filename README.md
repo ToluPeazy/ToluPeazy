@@ -7,7 +7,7 @@ Lecturer in computing, teaching cloud security, information security management 
 
 ---
 ### 🔬 What I work on
-- **Combinatorial Optimisation**: I introduced the *Set Covering Problem with Reasons* (SCPR), a new class of optimisation problem arising from SMT solving. I built the full pipeline: data ingestion, automated preprocessing, heuristic solvers, and exact MILP solving. In [scpr-qubo](https://github.com/ToluPeazy/scpr-qubo), I encode SCPR exactly as a QUBO for quantum annealing, with Beasley pre-reduction and a verification harness, and I am testing it on D-Wave hardware.
+- **Combinatorial Optimisation**: I introduced the *Set Covering Problem with Reasons* (SCPR), a new class of optimisation problems arising from SMT solving. I built the full pipeline: data ingestion, automated preprocessing, heuristic solvers, and exact MILP solving. In [scpr-qubo](https://github.com/ToluPeazy/scpr-qubo), I encode SCPR exactly as a QUBO for quantum annealing, with Beasley pre-reduction and a verification harness, and I am testing it on D-Wave hardware.
 - **Edge AI & IoT**: I am building **Smart-Lite Insight**, an edge-AI energy monitoring and anomaly detection system that runs on a Raspberry Pi 5.
 - **FDE Recovery & Cryptographic Diagnostics**: I am building CipherRescue, an open-source bootable recovery framework that applies SCPR to diagnose Full Disk Encryption failures across BitLocker, LUKS2, VeraCrypt, and TCG Opal.
 - **ML for Bioinformatics**: I applied SCPR to functional enrichment analysis on TCGA cancer datasets to identify disease-associated gene sets.
@@ -34,14 +34,14 @@ Cloud:          Google Cloud, Azure fundamentals
 - S. Jonah, Q. Moses, **A. Babatunde**, M. Ajao-Olarinoye, D. Bammeke. *"Adaptive Weather-Aware Home Energy Management through Large Language Model-Based Appliance Scheduling."* Preprint, SSRN. [doi:10.2139/ssrn.7289632](https://doi.org/10.2139/ssrn.7289632)
 - **A. T. Babatunde**. *"Encoding the Set Covering Problem with Reasons as a QUBO: Equivalence, Beasley Pre-Reduction, and Post-Q Variable Fixing."* Technical report, 2025. [Source](https://github.com/ToluPeazy/scpr-qubo/tree/main/paper)
 ### 🏅 Credentials
-- 🎓 **PhD Computational Mathematics**: Coventry University (2025)
-- 🏛️ **STEM for Britain Finalist**: Poster presentation at the UK Parliament (2024)
-- 🎤 **Speaker**: International Congress on Mathematical Software, Durham (2024)
-- 📜 **Microsoft Certified Professional**: Power BI (Active)
+- 🎓 **PhD Computational Mathematics**: Coventry University (2026)
+- 🏛️ **STEM for Britain Finalist**: Poster presentation at the UK Parliament (2024) 
+- 🎤 **Speaker**: International Congress on Mathematical Software, Durham (2024) | International Congress on Mathematical Software, Durham (2024)
+- 📜 **Microsoft Certified Professional**: Power BI (Active) | Product Management Certificate, ProductDive (2021)
 - ☁️ **Google Cloud Innovator** | Google ML Crash Course (14 badges)
 - 🤝 Member, **The OR Society** | **Chartered Management Institute** (MCMI)
 ### 🌍 Community
-**Head of AI Literacy** at the African Institute for Artificial Intelligence: building AI education content for African learners, including curriculum design and offline deployment strategies.
+**Head of AI Literacy** | **Head of Academic Research** | **Governance Council Member** at the African Institute for Artificial Intelligence: building AI education content for African learners, including curriculum design and offline deployment strategies.
 ### 📫 Let's connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tolu-babatunde-0ba37739)
 [![Google Dev](https://img.shields.io/badge/Google%20Dev-4285F4?style=flat&logo=google&logoColor=white)](https://g.dev/tolupeazy)
